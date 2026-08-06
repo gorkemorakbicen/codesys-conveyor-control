@@ -183,23 +183,23 @@ This allows the following conditions to be tested manually:
 
 ### Normal Operation
 
-![Running](docs/03_running.png)
+![Running](docs/running.png)
 
 ### Product in Transit
 
-![Product in Transit](docs/04_product_in_transit.png)
+![Product in Transit](docs/product_in_transit.png)
 
 ### Jam Fault
 
-![Jam Detected](docs/05_jam_detected.png)
+![Jam Detected](docs/jam_detected.png)
 
 ### Motor Feedback Fault
 
-![Motor Feedback Fault](docs/06_motor_feedback_fault.png)
+![Motor Feedback Fault](docs/motor_feedback_fault.png)
 
 ### Emergency Stop
 
-![Emergency Stop](docs/07_emergency_stop.png)
+![Emergency Stop](docs/emergency_stop.png)
 
 Additional state screenshots are available in the `docs` directory.
 
